@@ -1,45 +1,122 @@
-<!-- Footer -->
-
-<div class="footer_overlay"></div>
-<footer class="footer">
-    <div class="footer_background" style="background-image:url(images/footer.jpg)"></div>
+<!-- FOOTER-TOP-AREA START -->
+<section class="footer-top-area">
     <div class="container">
-        <div class="row">
-            <div class="col">
-                <div class="footer_content d-flex flex-lg-row flex-column align-items-center justify-content-lg-start justify-content-center">
-                    <div class="footer_logo"><a href="#">Sublime.</a></div>
-                    <div class="copyright ml-auto mr-auto">
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                        All rights reserved | This template is made with <i class="fa fa-heart-o"
-                                                                            aria-hidden="true"></i> by <a
-                                href="https://colorlib.com" target="_blank">Colorlib</a>
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
-                    <div class="footer_social ml-lg-auto">
-                        <ul>
-                            <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        </ul>
+        <div class="footer-top-container">
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+                    <!-- FOOTER-TOP-LEFT START -->
+                    <div class="footer-top-left">
+
+                        <!-- ABOUT-US-AREA START -->
+                        <div class="about-us-area">
+                            <h2>About Us</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                        </div>
+                        <!-- ABOUT-US-AREA END -->
+
+                    </div>
+                    <!-- FOOTER-TOP-LEFT END -->
+                </div>
+                <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
+
+                    <!-- FOOTER-TOP-RIGHT-1 END -->
+                    <div class="footer-top-right-2">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                <!-- FOTTER-MENU-WIDGET START -->
+                                <div class="fotter-menu-widget">
+                                    <!-- FLLOW-US-AREA START -->
+                                    <div class="fllow-us-area">
+                                        <h2>Follow us</h2>
+                                        <ul class="flow-us-link">
+                                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <!-- FLLOW-US-AREA END -->
+                                </div>
+                                <!-- FOTTER-MENU-WIDGET END -->
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+                                <!-- FOTTER-MENU-WIDGET START -->
+                                <div class="fotter-menu-widget">
+                                    <div class="single-f-widget">
+                                        <h2>Information</h2>
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-angle-double-right"></i>Specials</a></li>
+                                            <li><a href="#"><i class="fa fa-angle-double-right"></i>New products</a></li>
+                                            <li><a href="#"><i class="fa fa-angle-double-right"></i>Best sellers</a></li>
+                                            <li><a href="contact-us.html"><i class="fa fa-angle-double-right"></i>Contact Us</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- FOTTER-MENU-WIDGET END -->
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                <!-- FOTTER-MENU-WIDGET START -->
+                                <div class="fotter-menu-widget">
+                                    <div class="single-f-widget">
+                                        <h2>My account</h2>
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-angle-double-right"></i>My orders</a></li>
+                                            <li><a href="#"><i class="fa fa-angle-double-right"></i>My credit slips</a></li>
+                                            <li><a href="#"><i class="fa fa-angle-double-right"></i>My addresses</a></li>
+                                            <li><a href="#"><i class="fa fa-angle-double-right"></i>My personal info</a></li>
+                                            <li><a href="#"><i class="fa fa-angle-double-right"></i>Sign out</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- FOTTER-MENU-WIDGET END -->
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</footer>
-<script src="view/lib/js/jquery-3.2.1.min.js"></script>
-<script src="view/lib/styles/bootstrap4/popper.js"></script>
-<script src="view/lib/styles/bootstrap4/bootstrap.min.js"></script>
-<script src="view/lib/plugins/greensock/TweenMax.min.js"></script>
-<script src="view/lib/plugins/greensock/TimelineMax.min.js"></script>
-<script src="view/lib/plugins/scrollmagic/ScrollMagic.min.js"></script>
-<script src="view/lib/plugins/greensock/animation.gsap.min.js"></script>
-<script src="view/lib/plugins/greensock/ScrollToPlugin.min.js"></script>
-<script src="view/lib/plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
-<script src="view/lib/plugins/Isotope/isotope.pkgd.min.js"></script>
-<script src="view/lib/plugins/easing/easing.js"></script>
-<script src="view/lib/plugins/parallax-js-master/parallax.min.js"></script>
-<script src="view/lib/js/custom.js"></script>
+</section>
+<!-- FOOTER-TOP-AREA END -->
+<!-- JS
+    ===============================================-->
+<!-- jquery js -->
+<script src="view/shop/lib/js/vendor/jquery-1.11.3.min.js"></script>
+
+<!-- fancybox js -->
+<script src="view/shop/lib/js/jquery.fancybox.js"></script>
+
+<!-- bxslider js -->
+<script src="view/shop/lib/js/jquery.bxslider.min.js"></script>
+
+<!-- meanmenu js -->
+<script src="view/shop/lib/js/jquery.meanmenu.js"></script>
+
+<!-- owl carousel js -->
+<script src="view/shop/lib/js/owl.carousel.min.js"></script>
+
+<!-- nivo slider js -->
+<script src="view/shop/lib/js/jquery.nivo.slider.js"></script>
+
+<!-- jqueryui js -->
+<script src="view/shop/lib/js/jqueryui.js"></script>
+
+<!-- bootstrap js -->
+<script src="view/shop/lib/js/bootstrap.min.js"></script>
+
+<!-- wow js -->
+<script src="view/shop/lib/js/wow.js"></script>
+<script>
+    new WOW().init();
+</script>
+
+<
+<!-- main js -->
+<script src="view/shop/lib/js/main.js"></script>
 </body>
+
+
 </html>
